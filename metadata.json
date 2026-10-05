@@ -1,0 +1,6 @@
+{
+  "name": "Courier Address Manager",
+  "description": "Professional courier and address label generator for multiple companies with A4 half-page printing and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
